@@ -1,2 +1,3 @@
 # leetcode-archive
-Solutions in leetcode
+Solutions of leetcode problems.
+File name represents corresponding problem's index.
